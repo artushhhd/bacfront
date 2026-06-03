@@ -7,7 +7,10 @@
     "license": "MIT",
     "require": {
         "php": "^8.3",
+<<<<<<< HEAD
         "dedoc/scramble": "^0.13.26",
+=======
+>>>>>>> ee4701f4924fd1e1d42977f27bbf05313d8ce31e
         "laravel/framework": "^13.0",
         "laravel/sanctum": "^4.3",
         "laravel/tinker": "^3.0"
